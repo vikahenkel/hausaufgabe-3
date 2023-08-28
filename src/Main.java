@@ -96,11 +96,7 @@ public class Main {
     double denisDifferenz = 12 * (denisneulohn - denisJahresverdienst);
     double kristinaDifferenz = 12 * (kristinaneulohn - kristinaJahresverdienst);
     System.out.println("Mascha verdient jetz " + maschaneulohn + " Rubel. Jahresverdienst ist um " + maschaDifferenz + " gestiegen");
-    System.out.println("Denis verdient jetz " + denisneulohn + " Rubel. Jahresverdienst ist um " + denisDifferenz + " gestiegen");
-    System.out.println("Kristina verdient jetz " + kristinaneulohn + " Rubel. Jahresverdienst ist um " + kristinaDifferenz + " gestiegen");
-
-
-
-
+    System.out.println("Denis verdient jetzt " + denisneulohn + " Rubel. Jahresverdienst ist um " + denisDifferenz + " gestiegen");
+    System.out.println("Kristina verdient jetzt " + kristinaneulohn + " Rubel. Jahresverdienst ist um " + kristinaDifferenz + " gestiegen");
     }
 }
